@@ -1,7 +1,7 @@
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
+[Bb]inaries/
+[Dd]erivedDataCache/
+[Ii]ntermediate/
+[Ss]aved/
 
 *.sln
 *.sdf
